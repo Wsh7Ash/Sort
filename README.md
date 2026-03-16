@@ -209,22 +209,4 @@ After using this visualizer, you'll understand:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
 
-- **React Team** - For the amazing UI framework
-- **Vite Team** - For the fast build tool
-- **Algorithm Community** - For the sorting algorithm implementations
-- **Educational Resources** - That made this project possible
-
-## 📞 Contact
-
-For questions, suggestions, or contributions:
-- Create an Issue on GitHub
-- Start a Discussion
-- Email: [your-email@example.com]
-
----
-
-⭐ **Star this repository if you found it helpful!**
-
-🔗 **Related Projects**: Check out our [Search Algorithms Visualizer](../Search/) for pathfinding and search algorithm visualizations!
