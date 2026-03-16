@@ -32,10 +32,6 @@ A comprehensive interactive visualization tool for 10+ sorting algorithms with r
 - **JavaScript/JSX** - Modern ES6+ features
 - **CSS3** - Responsive styling with animations
 
-### Backend (C++ Implementation)
-- **C++20** - Modern C++ with standard library
-- **CMake** - Cross-platform build system
-- **STL Algorithms** - Standard library implementations
 
 ## 📁 Project Structure
 
@@ -63,10 +59,7 @@ Sort/
 │   └── bogo-sort.jsx
 ├── algo-visualizer.jsx     # Single algorithm viewer
 ├── all-sorts-visualizer.jsx # All algorithms comparison
-└── cpp/                   # C++ implementations
-    ├── CMakeLists.txt
-    ├── sorting_algorithms.h
-    └── sorting_demo.cpp
+
 ```
 
 ## 🚀 Quick Start
